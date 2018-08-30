@@ -7,6 +7,7 @@ public class MyClassTest1 extends SeleniumAbstractTest{
 	  public void myTestMethod1() {
 	    System.out.println("myTestMethod1 Update update123");
 	    System.out.println("myTestMethod1");
+	    System.out.println("myTestMethod1 Update update1234");
 	  }
 	  @Test
 	  public void myTestMethod2() {
